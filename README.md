@@ -1,5 +1,5 @@
 # maven
-project for lab
+
 class Java{
 public static void main(String[] args){
 int a=10;
